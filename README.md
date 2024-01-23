@@ -4,8 +4,7 @@
 Frontend Engineer | Tech Lead with more than 5 years of experience
 I have experience with both Front-end and Back-end technologies. Most of my time for the last few years has been spent coding and designing various 3D configurators.:mailbox: Reach me out!
 
-<br>
-<br>
+
 :mailbox: Reach me out!
 [![Linkedin Badge](https://img.shields.io/badge/Andriy%20Lobatskiy-234234?style=flat&logo=linkedin&link=mail%3Alobatskiy31%40gmail.com)](https://www.linkedin.com/in/andrii-lobatskiy/)  
 [![Mail Badge](https://img.shields.io/badge/Andriy%20Lobatskiy-234234?style=flat&logo=gmail&link=mail%3Alobatskiy31%40gmail.com)](mailto:lobatskiy31@gmail.com)
