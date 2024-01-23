@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Lobatskiy Andrei
  
 Frontend Engineer | Tech Lead with more than 5 years of experience
-I have experience with both Front-end and Back-end technologies. Most of my time for the last few years has been spent coding and designing various 3D configurators.:mailbox: Reach me out!
+I have experience with both Front-end and Back-end technologies. Most of my time for the last few years has been spent coding and designing various 3D configurators. 
  
 :mailbox: Reach me out! 
 
