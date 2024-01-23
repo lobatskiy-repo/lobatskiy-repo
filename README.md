@@ -7,8 +7,8 @@ I have experience with both Front-end and Back-end technologies. Most of my time
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Maksym_Rudnyi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-rudnyi/) 
-[![Mail Badge](![Static Badge](https://img.shields.io/badge/Andriy%20Lobatskiy-234234?style=flat&logo=gmail&link=mail%3Alobatskiy31%40gmail.com))](mailto:lobatskiy31@gmail.com)
-
+[![Mail Badge](https://img.shields.io/badge/Andriy%20Lobatskiy-234234?style=flat&logo=gmail&link=mail%3Alobatskiy31%40gmail.com)(mailto:lobatskiy31@gmail.com)
+ 
 
 <h3 align="center">Frontend Engineer | Tech Lead with more than 5 years of experience I have experience with both Front-end and Back-end technologies. Most of my time for the last few years has been spent coding and designing various 3D configurators.</h3>
 
