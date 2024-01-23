@@ -6,7 +6,7 @@ I have experience with both Front-end and Back-end technologies. Most of my time
 
 :mailbox: Reach me out!
  
-![Linkedin Badge](https://img.shields.io/badge/Andriy%20Lobatskiy-234234?style=flat&logo=linkedin&link=mail%3Alobatskiy31%40gmail.com)(https://www.linkedin.com/in/andrii-lobatskiy/)  
+![Linkedin Badge](https://img.shields.io/badge/Andriy%20Lobatskiy-234234?style=flat&logo=linkedin&link=mail%3Alobatskiy31%40gmail.com)](https://www.linkedin.com/in/andrii-lobatskiy/)  
 [![Mail Badge](https://img.shields.io/badge/Andriy%20Lobatskiy-234234?style=flat&logo=gmail&link=mail%3Alobatskiy31%40gmail.com)](mailto:lobatskiy31@gmail.com)
  
 
